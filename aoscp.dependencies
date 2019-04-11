@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "markakash/vendor_oneplus",
+    "target_path": "vendor/oneplus",
+    "branch": "pie",
+    "remote": "github"
+  },
+  {
+    "repository": "orygas/android_kernel_oneplus_sdm845",
+    "target_path": "kernel/oneplus/sdm845",
+    "branch": "android-9.0",
+    "remote": "github"
+  }
+]
